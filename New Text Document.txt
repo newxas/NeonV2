@@ -1,0 +1,6 @@
+panel izquierda
+size 50,491
+
+panel central
+location 129,0
+size 735,494
